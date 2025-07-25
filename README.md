@@ -30,13 +30,14 @@
 ## 📱 Screenshots
 
 ### 🔐 Login Screen
-![Login](Outtput/login.jpeg)
+<img src="Outtput/login.jpeg" alt="Login" width="300"/>
 
 ### 🔑 OTP Verification
-![OTP](Outtput/otp.jpeg)
+<img src="Outtput/otp.jpeg" alt="OTP" width="300"/>
 
 ### 🏠 Home Screen
-![Home](Outtput/home.jpeg)
+<img src="Outtput/home.jpeg" alt="Home" width="300"/>
+
 ---
 
 ## 🧪 How to Run the Project
