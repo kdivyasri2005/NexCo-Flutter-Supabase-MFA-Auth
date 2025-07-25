@@ -29,14 +29,14 @@
 
 ## 📱 Screenshots
 
-### 🔐 Login Screen
-<img src="Outtput/login.jpeg" alt="Login" width="300"/>
+<p align="center">
+  <img src="Outtput/login.jpeg" alt="Login" width="200"/>
+  &nbsp;&nbsp;
+  <img src="Outtput/otp.jpeg" alt="OTP" width="200"/>
+  &nbsp;&nbsp;
+  <img src="Outtput/home.jpeg" alt="Home" width="200"/>
+</p>
 
-### 🔑 OTP Verification
-<img src="Outtput/otp.jpeg" alt="OTP" width="300"/>
-
-### 🏠 Home Screen
-<img src="Outtput/home.jpeg" alt="Home" width="300"/>
 
 ---
 
