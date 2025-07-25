@@ -55,7 +55,7 @@ flutter pub get
 
 3. **Set Up Environment Variables**
 
-Create a `.env` file in the root directory:
+Replace ur Supabase url and supabase key in `.env` file in the root directory:
 ```
 SUPABASE_URL=your-supabase-url
 SUPABASE_ANON_KEY=your-supabase-anon-key
