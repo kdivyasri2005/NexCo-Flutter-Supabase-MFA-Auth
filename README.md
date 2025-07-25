@@ -27,12 +27,16 @@
 
 ---
 
-## 📸 Screenshots
+## 📱 Screenshots
 
-| Login Screen | OTP Verification | Home Feed |
-|--------------|------------------|-----------|
-| ![](./Output/login%20Screen.jpeg) | ![](./Output/otp%20screen.jpeg) | ![](./Output/home%20screen.jpeg) |
+### 🔐 Login Screen
+![Login](Outtput/login.jpeg)
 
+### 🔑 OTP Verification
+![OTP](Outtput/otp.jpeg)
+
+### 🏠 Home Screen
+![Home](Outtput/home.jpeg)
 ---
 
 ## 🧪 How to Run the Project
