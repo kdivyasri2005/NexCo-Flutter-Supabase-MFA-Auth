@@ -31,7 +31,7 @@
 
 | Login Screen | OTP Verification | Home Feed |
 |--------------|------------------|-----------|
-| ![](./output/Login%20Screen.jpeg) | ![](./output/Otp%20screen.jpeg) | ![](./output/home%20screen.jpeg) |
+| ![](./Output/login%20Screen.jpeg) | ![](./Output/otp%20screen.jpeg) | ![](./Output/home%20screen.jpeg) |
 
 ---
 
