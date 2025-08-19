@@ -111,7 +111,7 @@ This makes the app more secure and user-friendly, especially for mobile-first us
 ## 👩‍💻 About the Developer
 
 Hi, I'm **K. Divyasri**, a Computer Science Engineering student at **Rishi MS Institute of Engineering, Hyderabad**.  
-This project is a practical implementation of what I’ve learned in mobile development, with a strong focus on user security and modern app architecture.
+This project is a practical implementation of what I’ve learned in mobile app development using flutter, with a strong focus on user security and modern app architecture.
 
 ---
 
